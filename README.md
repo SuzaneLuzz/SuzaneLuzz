@@ -1,6 +1,6 @@
 # 💻 Suzane Luz
 
-Tenho 19 anos, com formação em andamento em Engenharia de Computação e conhecimentos em Manutenção de Microcomputadores pelo SENAC. Tenho experiência prática com operação de equipamentos de som, como mesas de som, microfones e caixas acústicas, além de atuar como suporte em organização e logística de eventos, colaborando com montagem, suporte técnico e estrutura. Sou apaixonada por tecnologia e estou cada vez mais buscando aperfeiçoar meus conhecimentos.
+Tenho 19 anos, com formação em andamento em Engenharia de Computação e conhecimentos em Manutenção de Microcomputadores pelo SENAC. Sou apaixonada por tecnologia e estou cada vez mais buscando aperfeiçoar meus conhecimentos.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/suzaneazevedoluz" target="_blank">
