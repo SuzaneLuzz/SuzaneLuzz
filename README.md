@@ -21,12 +21,6 @@ Tenho 19 anos, com formação em andamento em Engenharia de Computação e conhe
 
 ---
 
-### 📌 Projetos em destaque
-
-- **[Library Manager (C++)](./cpp-library-manager)** — Sistema de gerenciamento de biblioteca em linha de comando, com orientação a objetos, STL, persistência em arquivos e testes automatizados.
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
